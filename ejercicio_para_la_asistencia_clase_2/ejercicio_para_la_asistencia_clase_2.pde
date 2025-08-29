@@ -4,7 +4,7 @@ float velocidadY;    // Velocidad vertical
 float diametro;      // Tamaño de la pelota
 
 void setup() {
-  size(800, 600);    // Tamaño de la ventana
+  size(900, 700);    // Tamaño de la ventana
   x = width/2;       // Posición inicial en el centro
   y = height/2;
   velocidadX = 3;    // Velocidad inicial
