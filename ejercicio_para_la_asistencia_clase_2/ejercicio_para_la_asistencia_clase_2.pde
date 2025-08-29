@@ -9,7 +9,7 @@ void setup() {
   y = height/2;
   velocidadX = 3;    // Velocidad inicial
   velocidadY = 2;
-  diametro = 50;     // Tamaño de la pelota
+  diametro = 60;     // Tamaño de la pelota
 }
 
 void draw() {
